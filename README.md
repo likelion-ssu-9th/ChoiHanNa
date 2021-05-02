@@ -1,4 +1,5 @@
 # Webstagram
+
 ## Pages:
 
 - [x] Base.html
@@ -10,11 +11,7 @@
 - [x] Login.css
 - [x] background.css
 - [x] Profile.html
-- [ ] Profile.css
+- [x] Profile.css
 - [x] SignUp.html
 - [x] SignUp.css
 - [x] background.css
-
-
-
-
